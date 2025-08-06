@@ -12,7 +12,7 @@
 
 ## Running the Game
 
-1. Download `2048.jar` using the link here -> [Download 2048.jar](https://github.com/yildiz-fatih/cs-self-study/raw/main/cs61b/proj0/2048.jar) -< or by cloning the repo.
+1. Clone the repository.
 2. `cd` into the folder where you saved `2048.jar`.
 3. Run:
    ```bash
